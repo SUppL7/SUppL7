@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **RailTweet**
 
-- 👨‍💻 Telegram [@dr_p_3](@dr_p_3)
+- 👨‍💻 Telegram **(@dr_p_3)**
 
 - 📫 How to reach me **kaxa_sergo90@mail.ru**
 
 - ⚡ Fun fact **Im hockey player)**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
