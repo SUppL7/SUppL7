@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **RailTweet**
 
-- 👨‍💻 Telegram **(@dr_p_3)**
+- 👨‍💻 Telegram **@dr_p_3**
 
 - 📫 How to reach me **kaxa_sergo90@mail.ru**
 
